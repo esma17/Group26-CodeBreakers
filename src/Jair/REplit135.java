@@ -10,8 +10,5 @@ public class REplit135 {
 
 
     }
-   public static void word{
-        String word = "Hello team";
-        System.out.println(""+word.charAt(0)+word.charAt(word.length()-1));
-    }
+
 }
